@@ -1,10 +1,10 @@
 # Meta Data for SEO
 
 ## Homepage
-title = "Doks"
+title = "Sığınma Hukuku Kapsamında Özel İhtiyaç Sahiplerinin Korunması El Kitabı"
 titleSeparator = "-"
-titleAddition = "Modern Documentation Theme"
-description = "Doks is a Hugo theme for building secure, fast, and SEO-ready documentation websites, which you can easily update and customize."
+titleAddition = "SGDD-ASAM"
+description = "Sığınmacılar ve özel ihtiyaç sahipleri hakkında düzenlenmiş olan uluslarası ve ulusal mevzuat hükümleri ve hukukuki mekanizmalar yer almaktadır."
 
 ## Documentation
 # docsVersion = "0.3"
@@ -16,7 +16,7 @@ domainTLD = "doks.netlify.app"
 titleHome = "Doks Theme"
 
 ## Twitter Cards
-twitterSite = "@getdoks"
+twitterSite = "@sgdd_asam"
 twitterCreator = "@henkverlinde"
 
 ## JSON-LD
@@ -54,10 +54,10 @@ lqipWidth = "20x"
 smallLimit = "300"
 
 # Footer
-footer = "Powered by <a class=\"text-muted\" href=\"https://www.netlify.com/\">Netlify</a>, <a class=\"text-muted\" href=\"https://gohugo.io/\">Hugo</a>, and <a class=\"text-muted\" href=\"https://getdoks.org/\">Doks</a>"
+footer = "Powered by <a class=\"text-muted\" href=\"https://sgdd.org.tr/\">SGDD-ASAM</a>, <a class=\"text-muted\" href=\"https://gohugo.io/\">Hugo</a>, and <a class=\"text-muted\" href=\"https://getdoks.org/\">Doks</a>"
 
 # Feed
-copyRight = "Copyright (c) 2020-2021 Henk Verlinde"
+copyRight = "Tüm hakları saklıdır (c) 2021-2022 | SGDD-ASAM"
 
 # Alert
 alert = false
@@ -92,4 +92,4 @@ lastMod = false
 [menu]
   [menu.section]
     auto = true
-    collapsibleSidebar = true
+    collapsibleSidebar = false
